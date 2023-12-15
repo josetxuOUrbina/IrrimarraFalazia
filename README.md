@@ -13,10 +13,11 @@ Diseinu adimendunari buruzko eztabaida serioa...
 ## Irrimarraren falazia egitura honekin formulatzen da::
 
 ```S
-1. pertsonak X baieztatzen du.
-2. pertsonak Y baieztapen baten aurka argudiatzen du, X-ren faltsuki antzekoa, X-ren aurkako argudioa balitz bezala.
+Lehen pertsonak X baieztatzen du.
+Bigarren pertsonak Y baieztapen baten aurka argudiatzen du, X-ren faltsuki antzekoa, X-ren aurkako argudioa balitz bezala.
 ```
 
+Irrimarraren falazia baten ohiko argudioa aurkariaren proposizioa erabat ezeztatu edo garaitu izanaren ilusioa sortzea da, hau beste proposizio batek estalitako ordezpenaren bidez, eta argudio faltsu horren ondorengo ezeztapenaren bidez, bere aurkariaren proposizioari jaramon egin beharrean.
 
 
 ```
